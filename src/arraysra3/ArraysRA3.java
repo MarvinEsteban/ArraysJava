@@ -7,7 +7,7 @@ package arraysra3;
 public class ArraysRA3 {
 
     public static void main(String[] args) {
-        
+        System.out.println("Hello world");
     }
     
 }
